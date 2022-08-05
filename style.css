@@ -80,7 +80,7 @@ section {
     display: block;
 }
 
-#footer {
+#footers {
     color: rgb(255, 255, 255);
     background: #F1F6F4;
     position: relative;
@@ -96,7 +96,7 @@ section {
 }
 
 
-#nt {
+#nticon {
     filter: invert(1);
     -webkit-filter: invert(1);
     vertical-align: sub;
